@@ -25,7 +25,7 @@ public class Staff {
     this.position = position;
     this.shift = shift;
     this.email = email;
-    this.location = "Not clocked in";  // Default location when not working
+    this.location = "N/A";  // Default location when not working
     this.isClockedIn = false;          // Staff starts clocked out
   }
 
