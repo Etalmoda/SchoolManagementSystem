@@ -4,8 +4,10 @@ This Java application is a command-line school management system designed to tra
 # CSV Formatting
 Students:  Name,Grade,Gender,Guardians,Allergies,NeedsPara,Medications
  
-  Guardians: ((Name;Relationship;Phone) (Name2;Relationship2;Phone2), (etc.))
+Guardians: ((Name;Relationship;Phone) (Name2;Relationship2;Phone2), (etc.))
   
 Staff: Name,Position,Shift,Email
+
+Roooms: Name (One Word),Capacity
 
 2 example files provided for more detail
