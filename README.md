@@ -10,4 +10,4 @@ Staff: Name,Position,Shift,Email
 
 Roooms: Name (One Word),Capacity
 
-2 example files provided for more detail
+3 example files provided for more detail
